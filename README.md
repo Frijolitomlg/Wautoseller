@@ -1,0 +1,2 @@
+# Wautoseller
+Automated whatsapp bot
