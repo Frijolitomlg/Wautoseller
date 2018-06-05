@@ -1,0 +1,9 @@
+Esto es un mensaje automatizado
+Realizado mediante python & selenium
+Esto solo es una prueba de spam
+por favor no entrar en panico
+no es el judgment day ni me volvi loco
+estoy probando que funcione correctamente
+ 
+attentamente: Python3 
+(alirio mamalo)
